@@ -4,11 +4,9 @@ This format is a custom blend of features from **Boom**, **MBF**, **MBF21**, **I
 This guide is intended for mappers and modders, created by me together with a few contributors.  
 
 - [Overall specification](./docs/spec.md).
-- [Frames specification](./docs/frames.md).
 - [Things specification](./docs/things.md).
-- [Frames specification](./docs/frames.md).
-- [Weapons specification](./docs/weapons.md).
+- [Misc specification](./docs/misc.md).
+- [Weapons specification](./docs/weapon.md).
 - [Linedef specification](./docs/linedefs.md).
 - [New powerup capabilities](./docs/powerups.md).
-- [New UMAPINFO extensions](./docs/mapinfo.md).
 - [SPECDEFS](./docs/specdefs.md).
