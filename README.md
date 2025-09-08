@@ -7,6 +7,5 @@ This guide is intended for mappers and modders, created by me together with a fe
 - [Things specification](./docs/things.md).
 - [Misc specification](./docs/misc.md).
 - [Weapons specification](./docs/weapon.md).
-- [Linedef specification](./docs/linedefs.md).
 - [New powerup capabilities](./docs/powerups.md).
 - [SPECDEFS](./docs/specdefs.md).
