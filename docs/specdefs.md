@@ -8,6 +8,13 @@ This lump not only allows introducing new `flags` while staying within the `Doom
 | `linedef index` | `short` between 0 and 32767    | Specifies the linedef number on which the flag should be set.|
 | `flags2`      | `int` representing a linedef flag2 | Sets a linedef flag that goes beyond the short integer range. See (.\spec.md)| 
 
+| Property    | Data type                     | Description                                                                                                 |
+|-------------|-------------------------------|-------------------------------------------------------------------------------------------------------------|
+| `thing index` | `short` between 0 and 32767    | Specifies the linedef number on which the flag should be set.|
+| `tid`      | `short` between 0 and 3276 | Sets the actor’s **TID**.  | 
+| `special action`      | `short` between 0 and 3276 | Sets a **Special Action** for the actor, triggered upon death or item pickup.| 
+| `argument`      | `short` between 0 and 3276 or char[8] | Defines arguments for the Special Action| 
+
 # Macros
 | Property    | Data type                     | Description                                                                                                 |
 |-------------|-------------------------------|-------------------------------------------------------------------------------------------------------------|
